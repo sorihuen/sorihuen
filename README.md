@@ -1,12 +1,11 @@
 # README
-
 <div style="display: flex; align-items: center;">
-  <img src="https://media.giphy.com/media/26vACLXgansDXwHzzI/giphy.gif" width="100" alt="Programmer GIF">
-  <div style="margin-left: 20px;">
-    <p style="color: #DCDCDC; font-family: Arial, sans-serif; font-size: 20px;">Bienvenid@ al GitHub de Sorihuen</p>
-
-  </div>
+  <img src="https://media.giphy.com/media/26vACLXgansDXwHzzI/giphy.gif" width="100" alt="Programmer GIF" style="margin-right: 20px;">
+  <p style="color: #DCDCDC; font-family: Arial, sans-serif; font-size: 24px; line-height: 1.5;">
+    Bienvenid@ al GitHub de Sorihuen
+  </p>
 </div>
+
 
 ![Banner de Sorihuen](banner-github.png)
 
@@ -41,3 +40,4 @@
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=sorihuen&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>

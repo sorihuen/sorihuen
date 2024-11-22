@@ -5,7 +5,7 @@
       <img src="https://media.giphy.com/media/26vACLXgansDXwHzzI/giphy.gif" width="100" alt="Programmer GIF">
     </td>
     <td>
-       <h2>Bienvenid@ al GitHub de Sorihuen</h2>
+       <h2>Bienvenid@ al GitHub de SORIHUEN</h2>
       </p>
     </td>
   </tr>
